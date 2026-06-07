@@ -196,4 +196,9 @@ node* todel = prev->next;
     
     return 0;
     }
+
+
+    int main(){
+      // hello
+    }
   
